@@ -15,9 +15,13 @@
  - API Categorizing.
  - List Up
  - Interface Spec.
- - Sample Source 구동
- - 사용 신청 / 허용 / 적용
- - 
+ - 상세 규격
+ - Sample Source 실행
+2. API 사용/적용 프로세스
+   - 사용 신청
+   - 승인 처리
+   - 적용 완료
+3. 
 
 
 
